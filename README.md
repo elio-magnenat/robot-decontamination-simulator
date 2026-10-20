@@ -26,7 +26,9 @@ The project also includes a trajectory planner capable of evaluating several pos
 
 ## Demonstration
 
-**[▶ Watch the robot simulation (MP4)](demonstration.mp4)**
+![Robot decontamination simulation](demonstration.gif)
+
+[Watch the original video (MP4)](demonstration.mp4)
 
 The simulation shows autonomous robots trying to reach and decontaminate particles before time runs out. As time passes, particles can **explode into several smaller particles**. If the robots are not fast enough, successive explosions occur and the remaining particles eventually disappear.
 
